@@ -36,7 +36,7 @@ For example, considering the following commands:
 ========================
 RUNNING AN EXAMPLE
 ========================
-1. Download the moa-experimenter-jar at https://github.com/alberto-cuba/moa-experimenter-jar. The moa-experimenter-jar folder contains the libraries to run the application, the executable file moa.2016.04.jar, the datasets, and the replicatios scripts, a .bat for windows and a .sh for linux. Please do not change the name of any of these files.
+1.Download the folder "moa-experimenter-jar" at https://github.com/alberto-cuba/moa-experimenter-jar. This folder contains the libraries to run the application, the executable file moa.2016.04.jar, the datasets, and the replicatios scripts, a .bat for windows and a .sh for linux. Please do not change the name of any of these files.
 2. Unzip the folder datasets.7z with the data sets at the same level of the file moa.2016.04.jar. 
 3. Run the replication script. For Unix system excute the command line at the same directory of the moa.2016.04.jar an type
 bash script-l.sh. 
